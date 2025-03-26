@@ -6,8 +6,8 @@ $charset = 'UTF-8';
 header('Content-Type: text/html; charset=' . $charset);
 
 // Credenciais de login (altere para suas próprias credenciais)
-$username = "Felps";
-$password = "231095"; // Recomendado usar senha mais forte
+$username = "admin";
+$password = "admin123"; // Recomendado usar senha mais forte
 
 // Verificar login
 $loginError = "";
