@@ -7,4 +7,4 @@ Este arquivo `.php` permite administrar um servidor diretamente pelo navegador, 
 🔹 **📥 Upload & 📤 Download:** Envie e baixe arquivos facilmente.  
 🔹 **🔐 Sistema de Login:** Controle de acesso para maior segurança.  
 
-⚠️ **Atenção:** Este sistema foi desenvolvido **exclusivamente para fins educacionais** e de aprendizado. **Não me responsabilizo pelo uso indevido** ou por qualquer consequência das ações realizadas através deste código. **Este não é um software malicioso.** Use com responsabilidade!
+⚠️ **Atenção:** Este sistema foi desenvolvido **exclusivamente para fins educacionais** e de aprendizado. **Não me responsabilizo pelo uso indevido** ou por qualquer consequência das ações realizadas através deste código. **Este não é um software malicioso mais com o certo conhecimento pode torna-lo o que quiser!** Use com responsabilidade!
